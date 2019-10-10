@@ -1,0 +1,42 @@
+
+img
+{ 
+    float: right;
+
+}
+
+body
+
+{
+    background-image: url(achtergrond.jpg)
+    
+
+}
+
+#header
+
+{
+    color: palevioletred;
+    font-family: serif;
+    font-style: oblique; 
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+    padding: 40px: 
+    
+    
+   
+    
+
+}
+
+#text
+
+{
+    color: black;
+    font-family: serif;
+    font-style: oblique;
+    text-align: center;
+
+
+}
+
